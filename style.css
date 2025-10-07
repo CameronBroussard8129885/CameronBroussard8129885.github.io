@@ -1,6 +1,6 @@
 
    body {
-       background: ___________________;
+       background: #AD46FF;
        color: navy;
        padding: 10px;
        font-family: arial;
@@ -40,7 +40,7 @@
 
    /* main container area beneath menu */
    main {
-       background: ___________________;
+       background: #DAB2FF;
        display: flex;
    }
    .sidebar {
@@ -57,7 +57,7 @@
 
    /* portfolio styles */
    #interests {
-       border: 3px gray solid;
+       border: 3px #9810FA;
        padding: 8px;
    }
    h2, h3 {
